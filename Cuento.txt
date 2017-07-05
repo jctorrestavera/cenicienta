@@ -1,4 +1,4 @@
-Cuento de la cenicienta
+﻿Cuento de la cenicienta
 
 Hubo una vez una joven muy bella que no tenía padres, sino madrastra con dos hijas llamadas Drisela y Anastasia, una viuda impertinente con dos hijas a cual más fea. Era ella quien hacía los trabajos más duros de la casa y como sus vestidos estaban siempre tan manchados de ceniza, todos la llamaban Cenicienta.
 
@@ -27,3 +27,4 @@ La llegada de Cenicienta al Palacio causó honda admiración. Al entrar en la sa
 
    Y así sucedió que el Príncipe se casó con la joven y vivieron muy felices.
 
+Modificación de Juan Carlos
